@@ -15,7 +15,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
 
 - <b> Required Documents from Botium Toys </b>
   - [IT manager's Email screenshot](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png)
-  - [IT manager's Email screenshot](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png)
+  - [Botium Toys: Audit scope and goals](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/211ab98338cdf9a7c38fbf729569b5437f4bbbd5/Botium%20Toys_%20Risk%20assessment.docx)
   - [IT manager's Email screenshot](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/e0549c8f436c765d70ff8ecd57e45f92ade54da8/IT%20Email%20SS.png) 
 <br />
 
