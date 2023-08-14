@@ -20,6 +20,7 @@ Your task is to review the IT manager’s scope, goals, and risk assessment. The
   - [Botium Toys: Control assessment](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/eca8c675607bd4d5a8fdbf5473c4b597936f44c5/Controls%20assessment%20(1).docx)
   - [Botium Toys: Compliance Checklist](https://github.com/malikaii99/Security-Audit-Botium-Toys/blob/3d7bfeafbbd8e91f1145ee7f8b79b8a6e1e89084/Compliance%20checklist%20.docx)
 
+<h2> Stakeholder Memorandum</h2>
 <h3>Scope</h3>
   
 - <a> Evaluated for current user permissions, controls, procedures, and protocols across these systems: </a>
