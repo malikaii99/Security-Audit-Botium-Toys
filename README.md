@@ -1,4 +1,4 @@
-# Security Audit Botium Toys
+# Security Audit of Botium Toys
 <h1>Description</h1>
 
 A security audit will be done on Botium Toys to align their operational practices with industry standards and best practices. The audit will assess the company's adherence to cybersecurity norms, identify potential gaps, and enhance the overall security posture of the organization.
